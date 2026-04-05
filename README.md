@@ -1,31 +1,23 @@
-<h1 align="center">Ciel</h1>
-<p align="center">Robotics & AI Engineering</p>
+<h2 align="center">Hi, I'm Ciel</h2>
 
----
-
-## Overview
-Engineering student focused on building real-world systems in robotics, artificial intelligence, and embedded systems.
-
----
-
-## Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,docker,linux,raspberrypi" />
+<p align="center">
+Robotics & AI Engineering Student
 </p>
 
 ---
 
-## Focus Areas
-
-- Robotics & Autonomous Systems  
-- Computer Vision  
-- Embedded Systems  
+<p align="center">
+Focused on building systems in robotics, AI, and embedded engineering.
+</p>
 
 ---
 
-## GitHub Activity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,raspberrypi" />
+</p>
 
-<p>
+---
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neolemoz&show_icons=true&hide_border=true" />
 </p>
