@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,lua,react,spring,ros,opencv,pytorch,cmake,linux,ubuntu,docker,git,postman,arduino,raspberrypi,blender,idea,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,lua,react,spring,ros,opencv,cmake,linux,ubuntu,docker,git,postman,arduino,raspberrypi,blender,idea,pycharm" />
 </p>
 
 ![Metrics](./github-metrics.svg)
