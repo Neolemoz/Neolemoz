@@ -5,9 +5,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,lua,react,spring,ros,opencv,cmake,linux,ubuntu,docker,git,postman,arduino,raspberrypi,blender,idea,pycharm" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,js,lua,react,spring,ros,opencv,cmake,linux,ubuntu,docker,git,postman,arduino,raspberrypi,blender,idea,pycharm)
 
 
 ![Metrics](./github-metrics.svg)
