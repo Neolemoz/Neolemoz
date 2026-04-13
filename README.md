@@ -6,15 +6,9 @@
 
 <br>
 
-## 🧠 AI / Vision
-![AI](https://skillicons.dev/icons?i=python,pytorch,opencv)
-
-## 🤖 Robotics
-![Robotics](https://skillicons.dev/icons?i=ros,cpp,arduino,raspberrypi)
-
-## ⚙️ Tools
-![Tools](https://skillicons.dev/icons?i=linux,git,docker)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,lua,react,spring,ros,opencv,pytorch,cmake,linux,ubuntu,docker,git,postman,arduino,raspberrypi,blender,idea,pycharm" />
+</p>
 
 ![Metrics](./github-metrics.svg)
 
