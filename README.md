@@ -5,7 +5,7 @@
 
 <br>
 
-![Tech Stack](https://skillicons.dev/icons?i=python,cpp,js,lua,react,spring,ros,opencv,cmake,linux,ubuntu,docker,git,postman,arduino,raspberrypi,blender,idea,pycharm)
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,js,lua,react,spring,ros,opencv,cmake,linux,ubuntu,git,postman,arduino,raspberrypi,blender,idea,pycharm)
 
 <br>
 
